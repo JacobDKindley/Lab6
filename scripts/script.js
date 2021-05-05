@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // CODE GOES HERE vvv
         
-        var journal = document.createElement('journal-entry');
+        const journal = document.createElement('journal-entry');
         journal.entry=entry;       
 
 
